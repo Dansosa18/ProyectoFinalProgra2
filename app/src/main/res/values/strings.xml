@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoProgra2</string>
+    <string name="btnIniciar">Iniciar</string>"
+    <string name="textViewTitulo">Obteniendo ubicación</string>
+    <string name="btnCapturar">Agregar</string>
+    <string name="btnMochila">DIario</string>
+    <string name="btnCamara">Tomar Foto</string>"
+</resources>
